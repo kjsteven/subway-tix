@@ -16,4 +16,3 @@ This project requires the following dependencies:
 * Python 3.11 Interpreter
 * Tabulate Package
 
-To run the project, you must run it in Python IDE Terminal otherwise some functions may not work :D
